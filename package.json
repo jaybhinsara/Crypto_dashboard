@@ -1,0 +1,23 @@
+{
+  "name": "crypto-dashboard",
+  "version": "1.0.0",
+  "description": "A cryptocurrency dashboard application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "jest"
+  },
+  "keywords": ["crypto", "dashboard", "bitcoin", "ethereum"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.4.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20",
+    "jest": "^29.5.0"
+  }
+}
