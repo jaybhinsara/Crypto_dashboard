@@ -4,17 +4,16 @@
 A modern cryptocurrency dashboard application for tracking and analyzing digital assets in real-time.
 
 ## Features
-- Real-time price tracking
+- Real-time price tracking using API
 - Portfolio management
-- Market analysis tools
-- Historical data visualization
-- Multi-exchange support
+- Real-time weather support usin API
+
 
 ## Installation
 
 ### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn
+- Visual Code
+- API keys for Weather Cast
 
 ### Setup
 ```bash
