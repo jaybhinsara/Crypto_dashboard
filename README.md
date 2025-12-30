@@ -1,5 +1,7 @@
 # Crypto Dashboard
 
+<img width="1079" height="614" alt="personal_desktop_img" src="https://github.com/user-attachments/assets/ec05d325-bc1d-4733-8719-2abb3f008c81" />
+
 ## Description
 A modern cryptocurrency dashboard application for tracking and analyzing digital assets in real-time.
 
