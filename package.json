@@ -8,7 +8,7 @@
     "dev": "nodemon index.js",
     "test": "jest"
   },
-  "keywords": ["crypto", "dashboard", "bitcoin", "ethereum"],
+  "keywords": ["crypto", "dashboard", "bitcoin", "ethereum", "dogecoin"],
   "author": "",
   "license": "ISC",
   "dependencies": {
