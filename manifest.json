@@ -8,5 +8,11 @@
     },
     "chrome_url_overrides": {
         "newtab": "index.html"
-    }
+    },
+    "permissions": [
+        "activeTab",
+        "contextMenus",
+        "storage",
+        "geolocation"
+    ]
 }
