@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Your personal dashboard for quick access to your crypto & weather info",
     "action": {
-        "default_icon": "extension-icon.svg"
+        "default_icon": "extension-icon.png"
     },
     "chrome_url_overrides": {
         "newtab": "index.html"
